@@ -9,9 +9,9 @@
 - Classes and Objects
 - Friend Function
 - Operator Overloading 
-     (Language Used)
+     -(Language Used)
 - C++
-     (Output)
+    - (Output)
 fixed value of a and b
 1 1
 paramteric value
@@ -25,15 +25,15 @@ multiplied value
 
 # String check using Operator Overloading
 The program stores a message in a string and checks whether the user has entered a message or not.
-         (Concepts Used)
+         -(Concepts Used)
 - Classes and Objects
 - Constructors
 - Operator Overloading
 - String handling
-         (Working)
+        - (Working)
 - If no message is entered, the program displays: "no message entered"
 - Otherwise, it displays: "User entered a Message"
-         (output)
+        - (output)
   case1:                                   case2:
 default message                            default message                            
 Hi                                         Hi
