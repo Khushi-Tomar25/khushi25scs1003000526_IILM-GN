@@ -5,7 +5,7 @@
 - Calculates their sum
 - Calculates their subtraction
 - Multiplies the obtained results 
-     (Concepts Used)
+    - (Concepts Used)
 - Classes and Objects
 - Friend Function
 - Operator Overloading 
