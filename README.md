@@ -9,8 +9,6 @@
 - Classes and Objects
 - Friend Function
 - Operator Overloading 
-     -(Language Used)
-- C++
     - (Output)
 fixed value of a and b
 1 1
@@ -40,6 +38,18 @@ Hi                                         Hi
 User Message                               User message
 no message entered                         Hello world
                                            User entered a Message
+  
+# C++ program demonstrating operator overloading (member function) to determine student exam eligibility based on attendance percentage
+- Calculates attendance percentage
+- Determines exam eligibility (Allowed/Debarred)
+- Uses member operator overloading (`!`)
+- Demonstrates Object-Oriented Programming in C++
+      -(Concepts Used)
+- Classes & Objects
+- Constructor
+- Operator Overloading
+
+
 
 
 
