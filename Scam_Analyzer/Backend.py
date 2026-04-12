@@ -41,9 +41,9 @@ def analyze():
     data = request.get_json()
     url = data.get("url")
 
-    API_KEY = "AIzaSyDkiGTdkMhorpj2L2eEv6-o9mvAQqUCpqM"
+    API_KEY = "Your API key"
 
-    api_url = f"https://safebrowsing.googleapis.com/v4/threatMatches:find?key={API_KEY}"
+    api_url = "Your API key"
 
     payload = {
         "client": {
