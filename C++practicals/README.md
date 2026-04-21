@@ -1,3 +1,5 @@
 Program 1: A simple C++ program that takes a positive integer as input and calculates the sum of its digits using a loop.
 
 Program 2: A C++ program that takes an integer n as input and prints the first n terms of a sequence (natural numbers).
+
+Program 3: C++ program to display all prime numbers from 1 up to a user-entered number.
