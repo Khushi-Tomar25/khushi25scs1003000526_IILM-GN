@@ -6,3 +6,4 @@ Program 3: A C++ program to display all prime numbers from 1 up to a user-entere
 
 Program 4: A C++ program to input an array of numbers and find the largest and smallest elements.
 
+Program 5: A C++ program to sort an array of numbers in ascending order using the bubble sort algorithm.
