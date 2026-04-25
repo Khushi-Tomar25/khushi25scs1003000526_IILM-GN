@@ -8,4 +8,7 @@ Program 4: A C++ program to input an array of numbers and find the largest and s
 
 Program 5: A C++ program to sort an array of numbers in ascending order using the bubble sort algorithm.
 
-Program 6: C++ program demonstrating dynamic memory allocation and deallocation using pointers.
+Program 6: A C++ program demonstrating dynamic memory allocation and deallocation using pointers.
+
+Program 7: A C++ program demonstrating a simple class with a data member and member function.
+
